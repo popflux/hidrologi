@@ -20,3 +20,7 @@ config.rb
 ## Mac Stuff
 ## -----------------------------
 .DS_Store
+
+##--------------------------------
+application/config/database.php
+.htaccess
